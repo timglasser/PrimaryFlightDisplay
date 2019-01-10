@@ -1,0 +1,111 @@
+fileFormatVersion: 2
+guid: c62c15d6f2d934f4f832ce487a9f355f
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ankle2
+    100002: ankle3
+    100004: Beak
+    100006: foot2
+    100008: foot3
+    100010: Head
+    100012: //RootNode
+    100014: HeronMesh
+    100016: knee2
+    100018: knee3
+    100020: Lhip
+    100022: MasterMover
+    100024: Neck1
+    100026: Neck2
+    100028: Neck3
+    100030: Neck4
+    100032: Rhip
+    100034: Root
+    100036: RootDummy
+    400000: ankle2
+    400002: ankle3
+    400004: Beak
+    400006: foot2
+    400008: foot3
+    400010: Head
+    400012: //RootNode
+    400014: HeronMesh
+    400016: knee2
+    400018: knee3
+    400020: Lhip
+    400022: MasterMover
+    400024: Neck1
+    400026: Neck2
+    400028: Neck3
+    400030: Neck4
+    400032: Rhip
+    400034: Root
+    400036: RootDummy
+    4300000: HeronMesh
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: HeronMesh
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
